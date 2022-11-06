@@ -12,18 +12,19 @@ Tg bot on Python 3.9
 6) /website
 
 Для работы с фотографиями загрузите фотографию в проект как это показано ниже:
+
 ![image](https://user-images.githubusercontent.com/95234863/200157237-bb1ed76a-a566-476a-8a74-3193b59bc6b6.png)
+
 ![image](https://user-images.githubusercontent.com/95234863/200157249-e53c28ba-23a4-494e-b529-06f8c47aa005.png)
+
 
 
 
  
 #Для создания бота был использован следующий код:
 
-
 ```
- 
- import types
+import types
 
 import telebot
 
