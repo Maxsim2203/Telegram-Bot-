@@ -101,8 +101,3 @@ def website(message):
 bot.polling(none_stop=True)
 
  '''
- 
- 
- 
- 
-
