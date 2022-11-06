@@ -99,3 +99,9 @@ def website(message):
 bot.polling(none_stop=True)
 
  '''
+ 
+ 
+ 
+ 
+ # Для работы с ботом необходимо найти бота в телеграмме по ссылке ниже
+ https://t.me/NRRProBot
