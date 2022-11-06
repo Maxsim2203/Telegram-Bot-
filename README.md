@@ -17,6 +17,8 @@ Tg bot on Python 3.9
 
 ![image](https://user-images.githubusercontent.com/95234863/200157249-e53c28ba-23a4-494e-b529-06f8c47aa005.png)
 
+ Для работы с ботом необходимо найти бота в телеграмме по ссылке ниже
+ https://t.me/NRRProBot
 
 
 
@@ -103,5 +105,4 @@ bot.polling(none_stop=True)
  
  
  
- # Для работы с ботом необходимо найти бота в телеграмме по ссылке ниже
- https://t.me/NRRProBot
+
