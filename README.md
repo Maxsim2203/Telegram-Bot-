@@ -69,4 +69,5 @@ def website(message):
 
 bot.polling(none_stop=True)
 
- '''
+ ''' 
+ UPD Бот работает только если вы запустите ваш проект в PyCharm 
